@@ -1,4 +1,4 @@
-FROM python:3.6.12-alpine3.11
+FROM python:3.7-alpine
 MAINTAINER David Teubes
 
 ENV PYTHONUNBUFFERED 1
