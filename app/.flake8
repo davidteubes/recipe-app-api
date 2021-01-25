@@ -1,0 +1,8 @@
+[flake8]
+# ignore = E501,W391
+ignore = E501,W391
+exclude = 
+    migrations,
+    __pycache__,
+    manage.py,
+    settings.py
